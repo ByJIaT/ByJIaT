@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm python developer.
 
 ## ⚡ Technologies
 
@@ -12,8 +13,6 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ByJIaT&count_private=true&show_icons=true&theme=noctis_minimus&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJIaT&hide=TeX&layout=compact&theme=noctis_minimus)
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ByJIaT.ByJIaT)
 
 <!--
 **ByJIaT/ByJIaT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
