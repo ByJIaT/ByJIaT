@@ -9,8 +9,9 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ByJIaT&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJIaT&hide=TeX&layout=compact)
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ByJIaT&count_private=true&show_icons=true&theme=noctis_minimus&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJIaT&hide=TeX&layout=compact&theme=noctis_minimus)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ByJIaT.ByJIaT)
 
