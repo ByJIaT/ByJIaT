@@ -11,7 +11,7 @@ I'm python developer.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ByJIaT&count_private=true&show_icons=true&theme=noctis_minimus&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ByJIaT&count_private=true&show_icons=true&include_all_commits=true&theme=noctis_minimus)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ByJIaT&hide=TeX&layout=compact&theme=noctis_minimus)
 
 <!--
