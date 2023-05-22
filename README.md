@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm python developer.
+I am currently a beginner Python developer.
 
 ## ⚡ Technologies
 
